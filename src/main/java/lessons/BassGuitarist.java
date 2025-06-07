@@ -6,3 +6,4 @@ public class BassGuitarist extends Guitarist {
         System.out.println("Playing bass guitar");
     }
 }
+//
